@@ -23,7 +23,7 @@
     "express-jwt": "^3.3.0",
     "jsonwebtoken": "^5.4.1",
     "mongoose": "^4.3.1",
-    "mongoose-validator": "^1.2.4",
+    "mongoose-validator": "^2.0.0",
     "ng-smooth-scroll": "^1.7.3",
     "node-mongo-seeds": "^2.2.7"
   }
